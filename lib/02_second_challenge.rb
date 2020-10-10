@@ -4,15 +4,14 @@ def second_challenge
                 :patriarch=>{},
                  :matriarch=>{},
                  :hero=>{},
-                 :hero_friends=>{[]
-                 }
+                 :hero_friends=>[]
+                }
                  },
     :capulet => {
                 :patriarch=>{},
                 :matriarch=>{},
                 :heroine=>{},
-                :heroine_friends=>{[]
-                }
-                }
+                :heroine_friends=>[]
+               }
               }
 end
